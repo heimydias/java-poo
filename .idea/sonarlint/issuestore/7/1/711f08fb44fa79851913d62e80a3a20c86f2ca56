@@ -1,0 +1,20 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ç¸‹ÿÿÿÿÿ8ä”¤¨Š2J$0f075cc1-2d82-40e3-be6e-be03e024e057
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú ğóøÿÿÿÿ8Úí¥¨Š2J$c8bbcd62-008a-48fd-986b-b344626de124
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ê§Á8Ûí¥¨Š2J$59c03622-4eb5-40d6-b617-d277098c74a5
+“	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÙ¹ô8Ûí¥¨Š2J$29d8ba69-c55d-4816-ac61-1a6488e2ee7b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì²ÕÕ8Ùúı§Š2J$c95069bb-e1f5-4210-b3cc-948fe38c6e84
+|
+java:S1854 "9Remove this useless assignment to local variable "UEC04".(ØÙ¹ô8øÃ¦¨Š2J$4daaa471-2d75-44b0-8e21-0476726b54b3
+|
+java:S1854"9Remove this useless assignment to local variable "UEC03".(¶Ê§Á8ùÃ¦¨Š2J$8861c2db-9906-43f7-ae50-86b304276b5d
+
+java:S1854"9Remove this useless assignment to local variable "UEC02".(Ú ğóøÿÿÿÿ8‰İ¦¨Š2J$745e22b2-7a9d-4b16-b528-122e84cdf188
+l
+java:S1197"*Move the array designators [] to the type.(ª‚ö88ßúı§Š2J$52dc0424-c498-4c9a-ac7a-16fa47ea7964
+r
+java:S1481"*Remove this unused "UEC02" local variable.(Ú ğóøÿÿÿÿ8ûÃ¦¨Š2J$4d81d624-deff-4a14-8c0b-67ab41c41bf3
+m
+java:S1481"*Remove this unused "UEC03" local variable.(¶Ê§Á8ûÃ¦¨Š2J$82332f43-9061-46e5-9dba-1515b07995e1
+m
+java:S1481 "*Remove this unused "UEC04" local variable.(ØÙ¹ô8‹İ¦¨Š2J$b7d249fb-7042-4328-b93c-8507d673bf70

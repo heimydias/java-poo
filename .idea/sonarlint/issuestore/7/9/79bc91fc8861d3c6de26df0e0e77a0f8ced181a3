@@ -1,0 +1,17 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ÜO8èË¬‹ü1J$d250dce8-a901-41c9-bb73-7aba520b25c6
+
+java:S1192z"GDefine a constant instead of duplicating this literal " vezes" 3 times.(Ô®ï³şÿÿÿÿ8äË¬‹ü1J$9888b46f-db7c-4f8e-9eee-af2ef12a2c00
+ˆ	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(üÇªŒûÿÿÿÿ8‡Ì¬‹ü1J$e4183508-c2fd-4990-9547-ffe90065bb3e
+r	java:S106n"+Replace this use of System.out by a logger.(óÅ¾’şÿÿÿÿ8—Ì¬‹ü1J$0d26054d-00e7-463d-8e0f-33de5e11ac5a
+m	java:S106o"+Replace this use of System.out by a logger.(–®¸’8˜Ì¬‹ü1J$9e5976b7-84e0-4605-bd66-efa0783809f1
+r	java:S106p"+Replace this use of System.out by a logger.(â›õ÷üÿÿÿÿ8™Ì¬‹ü1J$6e78fb1a-c973-4d3d-a06f-3331c75d026e
+m	java:S106q"+Replace this use of System.out by a logger.(í¹®œ8™Ì¬‹ü1J$56ace1a8-8e0c-49c9-bd75-94542d85b8e7
+r	java:S106r"+Replace this use of System.out by a logger.(ë£è…ùÿÿÿÿ8šÌ¬‹ü1J$c5197c7a-5fab-4d2f-bae9-807727d1ef22
+r	java:S106s"+Replace this use of System.out by a logger.(——’Şüÿÿÿÿ8›Ì¬‹ü1J$75848f7c-ea85-4346-8b81-97c961e252be
+r	java:S106t"+Replace this use of System.out by a logger.(è±¼ıÿÿÿÿ8›Ì¬‹ü1J$a3d30fc1-6f3d-4033-8801-5004baefc35e
+m	java:S106u"+Replace this use of System.out by a logger.(«¶à…8œÌ¬‹ü1J$95c29ace-0216-4bc8-9d57-0ef2b6b643bc
+m	java:S106y"+Replace this use of System.out by a logger.(ÂÎÀé8Ì¬‹ü1J$afe5b7c7-ef63-4f0f-b68a-d617408e2751
+r	java:S106z"+Replace this use of System.out by a logger.(Ô®ï³şÿÿÿÿ8Ì¬‹ü1J$65edf561-6162-40bd-b580-60608db2e82b
+r	java:S106{"+Replace this use of System.out by a logger.(ÿ£Å•şÿÿÿÿ8Ì¬‹ü1J$c3c99dab-1878-46f7-bd5e-3f8ae362a8c6
+r	java:S106|"+Replace this use of System.out by a logger.(Ò’Ö‡ùÿÿÿÿ8Ì¬‹ü1J$93631867-24df-4d1e-add7-6e5ca7df926d

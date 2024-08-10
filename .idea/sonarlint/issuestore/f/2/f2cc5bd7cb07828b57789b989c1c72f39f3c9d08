@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì²ÕÕ8‹Ôİ§Š2J$a7782ded-87cc-4385-a7ef-e42979cb3d23
+m	java:S106"+Replace this use of System.out by a logger.(¯œ–ÿ8–Ôİ§Š2J$d5f1509c-f2bf-4940-a353-73e83158f855
+m	java:S106"+Replace this use of System.out by a logger.(Á…†›8—Ôİ§Š2J$5c2eafe2-9b65-4921-8d6b-ea5aa2fc047f
+r	java:S106"+Replace this use of System.out by a logger.(ÿ—›şÿÿÿÿ8Ôİ§Š2J$29c39310-8f38-48bc-94f2-3fed7dc80bef
+a
+java:S2119"Save and re-use this "Random".(¦•Õœ8œÔİ§Š2J$15e41d51-1e65-4697-bb88-482ec484f65b
+r	java:S106"+Replace this use of System.out by a logger.(¾®ğ·şÿÿÿÿ8ÔÑŞ§Š2J$56b9ba58-0312-4513-a976-ce65b537e3e0
+d	java:S131 ""Add a default case to this switch.(Ô¿î‚8Ôİ§Š2J$a434c177-b71d-4a91-a8e1-83a5d433a757
+m	java:S106""+Replace this use of System.out by a logger.(ŒÀÚ¾8Çá§Š2J$b1e19b26-63ab-4b85-9cf1-b3b61f0de5bb
+r	java:S106("+Replace this use of System.out by a logger.(ñ¤İıüÿÿÿÿ8¸˜–¨Š2J$9d4db3e9-e0ec-4024-9ba6-aa2f9fe95508
+m	java:S106."+Replace this use of System.out by a logger.(ŠÿÈ8°Ë™¨Š2J$2512d2d0-f51a-4bd3-8ae0-6a7248600b62
+m	java:S1064"+Replace this use of System.out by a logger.(Ğ—Íè8âõ ¨Š2J$357a63dd-17f3-42de-9bf0-8c787dab8e0e
+k	java:S1085")Either remove or fill this block of code.(å¥‡8Ôİ§Š2J$09329281-27f2-425b-bfff-deed9e1e9568
